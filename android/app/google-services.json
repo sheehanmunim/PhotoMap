@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "595403680259",
+    "project_id": "photomap-8222a",
+    "storage_bucket": "photomap-8222a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595403680259:android:427ee6572c7bb13be4bc36",
+        "android_client_info": {
+          "package_name": "com.sheehanmunim.PhotoMap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595403680259-pllksisqq18qiue4nm2mlp2pfrrn8gjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ0sm76SxsI2pTmFdZBEhD8Xs1EAX9ws0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595403680259-pllksisqq18qiue4nm2mlp2pfrrn8gjh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595403680259-f4ha1ud3hdcvlalnkt4qcohh34s5n0tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sheehanmunim.PhotoMap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
