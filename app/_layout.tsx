@@ -85,7 +85,7 @@ export default function RootLayout() {
       <View style={{ flex: 1 }}>
         {!isSplashReady ? null : (
           <Image
-            source={require("../assets/images/splash.png")}
+            source={require("../assets/images/splash-icon.png")}
             style={{ flex: 1, width: "100%", height: "100%" }}
             resizeMode="contain"
           />
