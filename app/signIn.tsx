@@ -101,7 +101,7 @@ const SignInScreen = () => {
 
   const sendPasswordReset = async () => {
     try {
-      await auth().sendPasswordReset(email);
+      await auth().sendPasswordResetEmail(email);
       Alert.alert("Success", "Password reset email sent!");
     } catch (error) {
       Alert.alert("Error", error.message);
